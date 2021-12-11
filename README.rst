@@ -58,7 +58,7 @@ To enable `django_toolchain` in your project you need to add it to `INSTALLED_AP
 
     INSTALLED_APPS = (
         ...
-        'django_extensions',
+        'Django-Toolchain',
         ...
     )
 
